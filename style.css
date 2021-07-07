@@ -37,8 +37,28 @@ p {
 .banner img {
 
   margin-bottom: 50px;
-
+  height : 500px;
   width :100%;
+
+}
+
+@media (max-width: 600px) {
+
+   .banner img {
+
+     height : 400px;
+
+   }
+
+}
+
+@media (min-width: 800px)  {
+
+   .banner img {
+
+     height : 650px;
+
+   }
 
 }
 
