@@ -39,10 +39,11 @@ p {
 .banner img {
 
   margin-bottom: 50px;
-  height : 500px;
+  height : 100vh;
   width :100%;
 
 }
+/*
 
 @media (max-width: 600px) {
 
@@ -63,6 +64,7 @@ p {
    }
 
 }
+*/
 
 .special img {
 
